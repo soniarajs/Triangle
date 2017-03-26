@@ -5,3 +5,4 @@ console.log('Witaj, ' + name);
 /*
 	inne komentarze
 */
+// lalala
